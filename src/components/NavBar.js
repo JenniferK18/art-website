@@ -23,16 +23,16 @@ function NavBar() {
             <Link to="/about"><span className="bg-dark text-white nav-link">About me</span></Link>
         </header>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/stephanie/">
               <Home />
           </Route>
-          <Route path="/gallery">
+          <Route path="/stephanie/gallery">
               <Gallery />
           </Route>
-          <Route path="/pricing">
+          <Route path="/stephanie/pricing">
               <Pricing />
           </Route>
-          <Route path="/about">
+          <Route path="/stephanie/about">
               <About />
           </Route>
       </Switch>
