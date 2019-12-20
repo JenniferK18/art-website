@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.js": "/art-website/static/js/main.e7cbbc2e.chunk.js",
-    "main.js.map": "/art-website/static/js/main.e7cbbc2e.chunk.js.map",
-    "runtime-main.js": "/art-website/static/js/runtime-main.70f1053e.js",
-    "runtime-main.js.map": "/art-website/static/js/runtime-main.70f1053e.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/art-website/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.af43de0c.chunk.js": "/art-website/static/js/2.af43de0c.chunk.js",
-    "static/js/2.af43de0c.chunk.js.map": "/art-website/static/js/2.af43de0c.chunk.js.map",
-    "index.html": "/art-website/index.html",
-    "precache-manifest.f5e681ae4b267a7355853d66c1a69ad4.js": "/art-website/precache-manifest.f5e681ae4b267a7355853d66c1a69ad4.js",
-    "service-worker.js": "/art-website/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/art-website/static/css/2.17e5ed98.chunk.css.map",
-    "static/js/2.af43de0c.chunk.js.LICENSE": "/art-website/static/js/2.af43de0c.chunk.js.LICENSE",
-    "static/media/banner-photo.jpeg": "/art-website/static/media/banner-photo.4c96d3a8.jpeg"
+    "main.js": "/stephanie/static/js/main.a95849bb.chunk.js",
+    "main.js.map": "/stephanie/static/js/main.a95849bb.chunk.js.map",
+    "runtime-main.js": "/stephanie/static/js/runtime-main.2bc77429.js",
+    "runtime-main.js.map": "/stephanie/static/js/runtime-main.2bc77429.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/stephanie/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.7f2235a6.chunk.js": "/stephanie/static/js/2.7f2235a6.chunk.js",
+    "static/js/2.7f2235a6.chunk.js.map": "/stephanie/static/js/2.7f2235a6.chunk.js.map",
+    "index.html": "/stephanie/index.html",
+    "precache-manifest.aedeea7112c068abc8fe7ee48427c74b.js": "/stephanie/precache-manifest.aedeea7112c068abc8fe7ee48427c74b.js",
+    "service-worker.js": "/stephanie/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/stephanie/static/css/2.17e5ed98.chunk.css.map",
+    "static/js/2.7f2235a6.chunk.js.LICENSE": "/stephanie/static/js/2.7f2235a6.chunk.js.LICENSE",
+    "static/media/banner-photo.jpeg": "/stephanie/static/media/banner-photo.4c96d3a8.jpeg",
+    "static/media/ramen.jpg": "/stephanie/static/media/ramen.651e74e4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70f1053e.js",
+    "static/js/runtime-main.2bc77429.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.af43de0c.chunk.js",
-    "static/js/main.e7cbbc2e.chunk.js"
+    "static/js/2.7f2235a6.chunk.js",
+    "static/js/main.a95849bb.chunk.js"
   ]
 }
