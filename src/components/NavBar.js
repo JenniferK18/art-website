@@ -16,7 +16,7 @@ import About from './About';
 function NavBar() {
   return (
     <Router>
-        <header className="navbar navbar-expand bg-dark">
+        <header className="navbar navbar-expand bg-dark border-top border-bottom">
             <Link to="/"><span className="bg-dark text-white nav-link">Home</span></Link>
             <Link to="/gallery"><span className="bg-dark text-white nav-link">Gallery</span></Link>
             <Link to="/pricing"><span className="bg-dark text-white nav-link">Pricing</span></Link>

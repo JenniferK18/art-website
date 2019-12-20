@@ -1,19 +1,19 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBar from './components/NavBar';
 import banner from './assets/banner-photo.jpeg';
 
 function App() {
   return (
-    <Fragment>
+    <div className="container p-0" style={{backgroundColor: '#d3d3d3'}}>
       <img 
         src={banner}
-        style={{ width: '100%', height: 300, objectFit: 'cover' }}
+        style={{ height: 300, objectFit: 'cover' }}
         alt=""
-        className="img-fluid"
+        className="img-fluid w-100"
       />
       <NavBar />
-    </Fragment>
+    </div>
   );
 }
 
